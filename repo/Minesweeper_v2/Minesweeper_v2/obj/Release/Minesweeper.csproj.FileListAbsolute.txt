@@ -1,0 +1,12 @@
+D:\Workspace\Programování\VS\repos\Minesweeper_v2\Minesweeper_v2\bin\Release\Minesweeper.exe.config
+D:\Workspace\Programování\VS\repos\Minesweeper_v2\Minesweeper_v2\bin\Release\Minesweeper.exe
+D:\Workspace\Programování\VS\repos\Minesweeper_v2\Minesweeper_v2\bin\Release\Minesweeper.pdb
+D:\Workspace\Programování\VS\repos\Minesweeper_v2\Minesweeper_v2\obj\Release\Minesweeper.csprojAssemblyReference.cache
+D:\Workspace\Programování\VS\repos\Minesweeper_v2\Minesweeper_v2\obj\Release\Minesweeper.EndForm.resources
+D:\Workspace\Programování\VS\repos\Minesweeper_v2\Minesweeper_v2\obj\Release\Minesweeper.GameForm.resources
+D:\Workspace\Programování\VS\repos\Minesweeper_v2\Minesweeper_v2\obj\Release\Minesweeper.StartForm.resources
+D:\Workspace\Programování\VS\repos\Minesweeper_v2\Minesweeper_v2\obj\Release\Minesweeper.Properties.Resources.resources
+D:\Workspace\Programování\VS\repos\Minesweeper_v2\Minesweeper_v2\obj\Release\Minesweeper.csproj.GenerateResource.cache
+D:\Workspace\Programování\VS\repos\Minesweeper_v2\Minesweeper_v2\obj\Release\Minesweeper.csproj.CoreCompileInputs.cache
+D:\Workspace\Programování\VS\repos\Minesweeper_v2\Minesweeper_v2\obj\Release\Minesweeper.exe
+D:\Workspace\Programování\VS\repos\Minesweeper_v2\Minesweeper_v2\obj\Release\Minesweeper.pdb
